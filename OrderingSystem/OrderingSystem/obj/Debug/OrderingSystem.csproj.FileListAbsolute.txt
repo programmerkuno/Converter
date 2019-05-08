@@ -1,0 +1,6 @@
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe.config
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csprojResolveAssemblyReference.cache
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.pdb
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.exe
+c:\users\briñas\documents\visual studio 2015\Projects\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.pdb
